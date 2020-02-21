@@ -1,1 +1,1 @@
-# robust
+this system use three layer security system for secure messaging the raw message is capture and transform to arabic equivalent after which the decimal equivalent of each arabic letters is derived and perform RNS on each value using the traditional moduli set (2n-1, 2n, 2n+1).
